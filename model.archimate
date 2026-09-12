@@ -321273,11 +321273,12 @@
                   startX="-100"
                   startY="-140"
                   endX="200"
-                  endY="-80"/>
+                  endY="-120"/>
               <bendpoint
                   startX="-300"
                   startY="-140"
-                  endY="-80"/>
+                  endX="0"
+                  endY="-120"/>
             </sourceConnection>
             <child
                 xsi:type="archimate:DiagramObject"
