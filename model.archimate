@@ -321255,8 +321255,8 @@
             <bounds
                 x="580"
                 y="180"
-                width="280"
-                height="200"/>
+                width="340"
+                height="220"/>
             <sourceConnection
                 xsi:type="archimate:Connection"
                 id="id-b8f074d2fd214f6ca28bd725b2534e01"
@@ -321270,13 +321270,14 @@
                 target="id-53c7563ec50b4daf8e9ec201d638688f"
                 archimateRelationship="id-0a2773e1ec7645f6ba6980938e9f1b4e">
               <bendpoint
-                  startX="-100"
-                  startY="-140"
+                  startX="-130"
+                  startY="-150"
                   endX="200"
                   endY="-120"/>
               <bendpoint
-                  startX="-300"
-                  startY="-140"
+                  startX="-330"
+                  startY="-150"
+                  endX="0"
                   endY="-120"/>
             </sourceConnection>
             <child
@@ -321287,8 +321288,8 @@
               <bounds
                   x="20"
                   y="40"
-                  width="236"
-                  height="128"/>
+                  width="300"
+                  height="160"/>
               <sourceConnection
                   xsi:type="archimate:Connection"
                   id="id-41d02178e427494d9816d2d852c7ee00"
@@ -321307,10 +321308,10 @@
                   targetConnections="id-73323ce19fe148d1b5e1e7bcc5951e3c id-4305ff4fb9324319854f37aa5917fb02"
                   archimateElement="id-f8a0d5bcee5f4eeba340b7c12fea8da9">
                 <bounds
-                    x="12"
-                    y="24"
-                    width="193"
-                    height="37"/>
+                    x="20"
+                    y="40"
+                    width="260"
+                    height="40"/>
               </child>
               <child
                   xsi:type="archimate:DiagramObject"
@@ -321318,10 +321319,10 @@
                   targetConnections="id-41d02178e427494d9816d2d852c7ee00"
                   archimateElement="id-b8c30c6dc4a84af88f727250e09dbd45">
                 <bounds
-                    x="12"
-                    y="72"
-                    width="193"
-                    height="37"/>
+                    x="20"
+                    y="100"
+                    width="260"
+                    height="40"/>
               </child>
             </child>
           </child>
@@ -321356,8 +321357,8 @@
               <bounds
                   x="20"
                   y="40"
-                  width="228"
-                  height="49"/>
+                  width="240"
+                  height="60"/>
               <sourceConnection
                   xsi:type="archimate:Connection"
                   id="id-3536bcee3ca34c53a91a3e6ff4bd832b"
@@ -321373,8 +321374,8 @@
               <bounds
                   x="20"
                   y="120"
-                  width="155"
-                  height="43"/>
+                  width="240"
+                  height="40"/>
               <sourceConnection
                   xsi:type="archimate:Connection"
                   id="id-4305ff4fb9324319854f37aa5917fb02"
