@@ -321395,7 +321395,7 @@
               archimateElement="id-b8c30c6dc4a84af88f727250e09dbd45">
             <bounds
                 x="480"
-                y="420"
+                y="280"
                 width="121"
                 height="61"/>
             <sourceConnection
@@ -321418,10 +321418,10 @@
                 target="id-13a9a97d87a34239a8ab82c1f6b06473"
                 archimateRelationship="id-5286cfceec0e4360a67ea7201e875d35">
               <bendpoint
-                  startX="170"
-                  startY="15"
-                  endX="222"
-                  endY="212"/>
+                  startX="140"
+                  startY="-10"
+                  endX="228"
+                  endY="194"/>
             </sourceConnection>
           </child>
           <child
@@ -321431,8 +321431,8 @@
               textAlignment="1"
               archimateElement="id-022bc4e063d64903b40f40b59087057d">
             <bounds
-                x="204"
-                y="36"
+                x="200"
+                y="40"
                 width="505"
                 height="133"/>
             <sourceConnection
@@ -321496,7 +321496,7 @@
               archimateElement="id-7d389751529e450d8f39f2a8914e5ef9">
             <bounds
                 x="80"
-                y="340"
+                y="220"
                 width="181"
                 height="145"/>
             <sourceConnection
